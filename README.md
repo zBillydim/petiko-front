@@ -9,3 +9,5 @@ npm install
 ```sh
 npm run dev
 ```
+
+dentro de src/services/api.ts coloque a URL do laravel
